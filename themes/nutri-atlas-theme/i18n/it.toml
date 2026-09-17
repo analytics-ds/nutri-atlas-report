@@ -1,0 +1,101 @@
+[skip_to_content]
+other = "Vai al contenuto"
+
+[explore_blog]
+other = "Scopri il blog"
+
+[our_categories]
+other = "Le nostre categorie"
+
+[article_singular]
+other = "articolo"
+
+[article_plural]
+other = "articoli"
+
+[latest_articles]
+other = "Ultimi articoli"
+
+[read_more]
+other = "Leggi di piu"
+
+[home]
+other = "Home"
+
+[blog]
+other = "Blog"
+
+[categories_footer]
+other = "Categorie"
+
+[navigation_footer]
+other = "Navigazione"
+
+[sitemap_link]
+other = "Mappa del sito"
+
+[all_rights_reserved]
+other = "Tutti i diritti riservati."
+
+[breadcrumb_aria]
+other = "Percorso di navigazione"
+
+[reading_time_suffix]
+other = "min di lettura"
+
+[toc_title]
+other = "Sommario"
+
+[toc_aria]
+other = "Sommario"
+
+[updated_on]
+other = "Aggiornato il"
+
+[about_author]
+other = "Sull'autore"
+
+[expertise_label]
+other = "Competenze:"
+
+[related_articles]
+other = "Articoli correlati"
+
+[prev_article]
+other = "Articolo precedente"
+
+[next_article]
+other = "Articolo successivo"
+
+[error_404_title]
+other = "Pagina non trovata"
+
+[error_404_text]
+other = "La pagina che stai cercando non esiste o e stata spostata."
+
+[back_home]
+other = "Torna alla home"
+
+[view_articles]
+other = "Vedi gli articoli"
+
+[sitemap_title]
+other = "Mappa del sito"
+
+[sitemap_desc]
+other = "Tutte le pagine di"
+
+[main_pages]
+other = "Pagine principali"
+
+[nav_menu_aria]
+other = "Navigazione principale"
+
+[mobile_nav_aria]
+other = "Navigazione mobile"
+
+[footer_nav_aria]
+other = "Navigazione del footer"
+
+[lang_switcher_aria]
+other = "Selettore di lingua"

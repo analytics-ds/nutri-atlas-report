@@ -1,0 +1,203 @@
+baseURL = "https://nutriatlasreport.com/"
+locale = "de"
+defaultContentLanguage = "de"
+defaultContentLanguageInSubdir = false
+title = "Nutri Atlas Report"
+theme = "nutri-atlas-theme"
+paginate = 12
+removePathAccents = true
+
+[languages]
+  [languages.de]
+    locale = "de-DE"
+    label = "Deutsch"
+    weight = 1
+    title = "Nutri Atlas Report"
+    contentDir = "content/de"
+    [languages.de.params]
+      description = "Nutri Atlas Report ist ein wissenschaftlich fundiertes Wellness-Journal ueber Schoenheit, Gewicht, Schlaf und Immunsystem fuer Frauen."
+      hero_badge = "Wellness, wissenschaftlich fundiert"
+      hero_title = "NUTRI ATLAS REPORT"
+      hero_description = "Ihr Wellness-Journal fuer Schoenheit, Gewicht, Schlaf und Immunsystem, fundiert und ehrlich, ohne leere Versprechen."
+
+  [languages.en]
+    locale = "en-US"
+    label = "English"
+    weight = 2
+    title = "Nutri Atlas Report"
+    contentDir = "content/en"
+    [languages.en.params]
+      description = "Nutri Atlas Report is a science-backed wellness journal covering beauty, weight, sleep and immunity for women."
+      hero_badge = "Science-backed wellness"
+      hero_title = "NUTRI ATLAS REPORT"
+      hero_description = "Your wellness journal for beauty, weight, sleep and immunity, backed by science, no empty promises."
+
+  [languages.fr]
+    locale = "fr-FR"
+    label = "Francais"
+    weight = 3
+    title = "Nutri Atlas Report"
+    contentDir = "content/fr"
+    [languages.fr.params]
+      description = "Nutri Atlas Report est un journal bien-etre fonde sur la science, consacre a la beaute, au poids, au sommeil et a l'immunite des femmes."
+      hero_badge = "Le bien-etre valide par la science"
+      hero_title = "NUTRI ATLAS REPORT"
+      hero_description = "Votre journal bien-etre dedie a la beaute, au poids, au sommeil et a l'immunite, sans promesses en l'air."
+
+  [languages.it]
+    locale = "it-IT"
+    label = "Italiano"
+    weight = 4
+    title = "Nutri Atlas Report"
+    contentDir = "content/it"
+    [languages.it.params]
+      description = "Nutri Atlas Report e un giornale di benessere basato sulla scienza dedicato a bellezza, peso, sonno e immunita delle donne."
+      hero_badge = "Benessere validato dalla scienza"
+      hero_title = "NUTRI ATLAS REPORT"
+      hero_description = "Il tuo giornale di benessere dedicato a bellezza, peso, sonno e immunita, senza promesse vuote."
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[sitemap]
+  changefreq = 'weekly'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
+[outputs]
+  home = ['html', 'rss']
+  section = ['html', 'rss']
+
+# Menu principal DE
+[[languages.de.menus.main]]
+  name = "Start"
+  pageRef = "/"
+  weight = 1
+[[languages.de.menus.main]]
+  name = "Schoenheit und Haare"
+  pageRef = "/categories/schoenheit-und-haare"
+  weight = 2
+[[languages.de.menus.main]]
+  name = "Gewicht und Stoffwechsel"
+  pageRef = "/categories/gewicht-und-stoffwechsel"
+  weight = 3
+[[languages.de.menus.main]]
+  name = "Schlaf und Energie"
+  pageRef = "/categories/schlaf-und-energie"
+  weight = 4
+[[languages.de.menus.main]]
+  name = "Immunsystem"
+  pageRef = "/categories/immunsystem"
+  weight = 5
+[[languages.de.menus.main]]
+  name = "Blog"
+  pageRef = "/blog"
+  weight = 6
+
+# Menu principal EN
+[[languages.en.menus.main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 1
+[[languages.en.menus.main]]
+  name = "Beauty and Hair"
+  pageRef = "/categories/beauty-and-hair"
+  weight = 2
+[[languages.en.menus.main]]
+  name = "Weight and Metabolism"
+  pageRef = "/categories/weight-and-metabolism"
+  weight = 3
+[[languages.en.menus.main]]
+  name = "Sleep and Energy"
+  pageRef = "/categories/sleep-and-energy"
+  weight = 4
+[[languages.en.menus.main]]
+  name = "Immune System"
+  pageRef = "/categories/immune-system"
+  weight = 5
+[[languages.en.menus.main]]
+  name = "The Blog"
+  pageRef = "/blog"
+  weight = 6
+
+# Menu principal FR
+[[languages.fr.menus.main]]
+  name = "Accueil"
+  pageRef = "/"
+  weight = 1
+[[languages.fr.menus.main]]
+  name = "Beaute et cheveux"
+  pageRef = "/categories/beaute-et-cheveux"
+  weight = 2
+[[languages.fr.menus.main]]
+  name = "Poids et metabolisme"
+  pageRef = "/categories/poids-et-metabolisme"
+  weight = 3
+[[languages.fr.menus.main]]
+  name = "Sommeil et energie"
+  pageRef = "/categories/sommeil-et-energie"
+  weight = 4
+[[languages.fr.menus.main]]
+  name = "Immunite"
+  pageRef = "/categories/immunite"
+  weight = 5
+[[languages.fr.menus.main]]
+  name = "Le Blog"
+  pageRef = "/blog"
+  weight = 6
+
+# Menu principal IT
+[[languages.it.menus.main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 1
+[[languages.it.menus.main]]
+  name = "Bellezza e capelli"
+  pageRef = "/categories/bellezza-e-capelli"
+  weight = 2
+[[languages.it.menus.main]]
+  name = "Peso e metabolismo"
+  pageRef = "/categories/peso-e-metabolismo"
+  weight = 3
+[[languages.it.menus.main]]
+  name = "Sonno ed energia"
+  pageRef = "/categories/sonno-ed-energia"
+  weight = 4
+[[languages.it.menus.main]]
+  name = "Sistema immunitario"
+  pageRef = "/categories/sistema-immunitario"
+  weight = 5
+[[languages.it.menus.main]]
+  name = "Il Blog"
+  pageRef = "/blog"
+  weight = 6
+
+[params]
+  description = "Nutri Atlas Report ist ein wissenschaftlich fundiertes Wellness-Journal ueber Schoenheit, Gewicht, Schlaf und Immunsystem fuer Frauen."
+  author_name = "Die Redaktion"
+  author_url = "https://nutriatlasreport.com/"
+  author_job_title = "Redaktionsteam"
+  author_bio = "Das Redaktionsteam von Nutri Atlas Report vereint Wellness- und Ernaehrungsexpertise. Jeder Artikel stuetzt sich auf verlaessliche wissenschaftliche Quellen und respektiert die YMYL-Standards fuer Gesundheitsinhalte."
+  logo = "/favicon.svg"
+  default_og_image = "/images/og-default.jpg"
+  founding_year = "2026"
+  expertise = ["Wellness", "Ernaehrung", "Frauengesundheit"]
+
+[related]
+  includeNewer = true
+  threshold = 80
+  [[related.indices]]
+    name = "categories"
+    weight = 100
+  [[related.indices]]
+    name = "tags"
+    weight = 80
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+    ordered = true
+  [markup.goldmark.renderer]
+    unsafe = true

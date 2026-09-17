@@ -1,0 +1,29 @@
+# Nutri Atlas Report
+
+> Nutri Atlas Report is a science-backed wellness journal covering beauty, weight, sleep and immunity for women. Available in German (default), English, French and Italian.
+
+## About
+
+Nutri Atlas Report publishes short, fact-based articles on women's wellness topics: hair and beauty, weight and metabolism, sleep and energy, and the immune system. Each article cites verifiable data and studies, avoids unfounded health claims, and follows YMYL (Your Money or Your Life) content standards given the health-adjacent nature of the topics.
+
+## Main content
+
+- Beauty and Hair (Schoenheit und Haare / Beaute et cheveux / Bellezza e capelli): hair loss, biotin, natural hair care
+- Weight and Metabolism (Gewicht und Stoffwechsel / Poids et metabolisme / Peso e metabolismo): metabolism, weight management, nutrition
+- Sleep and Energy (Schlaf und Energie / Sommeil et energie / Sonno ed energia): sleep quality, melatonin, energy
+- Immune System (Immunsystem / Immunite / Sistema immunitario): vitamins, minerals, immune support
+
+## Recent articles
+
+- Haarausfall bei Frauen: Ursachen und natuerliche Loesungen (DE) / Hair Loss in Women: Causes and Natural Solutions (EN) / Chute de cheveux chez les femmes (FR) / Caduta dei capelli nelle donne (IT)
+- Stoffwechsel ankurbeln: Wissenschaftlich fundierte Methoden (DE) / Boosting Metabolism: Science-Backed Methods (EN) / Booster son metabolisme (FR) / Accelerare il metabolismo (IT)
+- Besser einschlafen: Natuerliche Strategien gegen Schlafprobleme (DE) / Falling Asleep Better (EN) / Mieux dormir (FR) / Dormire meglio (IT)
+- Immunsystem staerken: Die Rolle von Vitaminen und Mineralstoffen (DE) / Strengthening the Immune System (EN) / Renforcer son immunite (FR) / Rafforzare il sistema immunitario (IT)
+
+## Technical information
+
+- Generator: Hugo
+- Hosting: GitHub Pages
+- Languages: de (default, root), en (/en/), fr (/fr/), it (/it/)
+- Sitemap: https://nutriatlasreport.com/sitemap.xml
+- RSS: https://nutriatlasreport.com/index.xml
