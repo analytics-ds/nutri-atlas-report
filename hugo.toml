@@ -1,4 +1,4 @@
-baseURL = "https://nutriatlasreport.com/"
+baseURL = "https://analytics-ds.github.io/nutri-atlas-report/"
 locale = "de"
 defaultContentLanguage = "de"
 defaultContentLanguageInSubdir = false
@@ -176,7 +176,7 @@ removePathAccents = true
 [params]
   description = "Nutri Atlas Report ist ein wissenschaftlich fundiertes Wellness-Journal ueber Schoenheit, Gewicht, Schlaf und Immunsystem fuer Frauen."
   author_name = "Die Redaktion"
-  author_url = "https://nutriatlasreport.com/"
+  author_url = "https://analytics-ds.github.io/nutri-atlas-report/"
   author_job_title = "Redaktionsteam"
   author_bio = "Das Redaktionsteam von Nutri Atlas Report vereint Wellness- und Ernaehrungsexpertise. Jeder Artikel stuetzt sich auf verlaessliche wissenschaftliche Quellen und respektiert die YMYL-Standards fuer Gesundheitsinhalte."
   logo = "/favicon.svg"
