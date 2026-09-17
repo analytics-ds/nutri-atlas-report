@@ -82,8 +82,8 @@ Ce repo ne contient pas de site. Il contient les **instructions et templates** p
 - **Description (EN)** : Nutri Atlas Report is a science-backed wellness journal covering beauty, weight, sleep and immunity for women.
 - **Description (FR)** : Nutri Atlas Report est un journal bien-etre fonde sur la science, consacre a la beaute, au poids, au sommeil et a l'immunite des femmes.
 - **Description (IT)** : Nutri Atlas Report e un giornale di benessere basato sulla scienza dedicato a bellezza, peso, sonno e immunita delle donne.
-- **URL** : https://analytics-ds.github.io/nutri-atlas-report/ (URL GitHub Pages, en attendant l'achat d'un nom de domaine dedie type nutriatlasreport.com — mettre a jour le baseURL dans hugo.toml et cette section si un domaine custom est configure)
-- **Repo GitHub** : https://github.com/analytics-ds/nutri-atlas-report (public, GitHub Pages actif via GitHub Actions)
+- **URL** : https://nutriatlasreport.com/ (domaine custom achete et configure, DNS a pointer par l'utilisateur — voir REFS.md du client pour les enregistrements exacts)
+- **Repo GitHub** : https://github.com/analytics-ds/nutri-atlas-report (public, GitHub Pages actif via GitHub Actions, domaine custom configure cote GitHub)
 - **Couleurs** : palette pastel wellness — primary `#C17B98` (rose poudre), primary-light `#DFA8BE`, accent `#B98ECB` (lavande), cta `#F2A488` (corail), background `#FFF9F7`, background-alt `#FBEFF0`, text `#3A2E35`
 - **Polices** : titres `Fraunces`, corps `Lora`, UI `DM Sans` (Google Fonts)
 - **Langue principale** : DE (allemand, servi a la racine `/`). Langues secondaires TOUJOURS actives : EN (`/en/`), FR (`/fr/`), IT (`/it/`) — site quadrilingue (cas particulier hors template standard FR+EN)
