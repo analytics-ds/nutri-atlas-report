@@ -76,13 +76,13 @@ Ce repo ne contient pas de site. Il contient les **instructions et templates** p
 > Cette section est remplie automatiquement par le skill `/create-site`.
 > Elle permet a Claude de connaitre le contexte du site pour les futures actions.
 
-- **Client** : Bears with Benefits (GEO), site PBN externe
+- **Client** : voir le suivi interne (jamais de nom de client dans ce depot public)
 - **Nom du site** : Nutri Atlas Report
 - **Description (DE)** : Nutri Atlas Report ist ein wissenschaftlich fundiertes Wellness-Journal ueber Schoenheit, Gewicht, Schlaf und Immunsystem fuer Frauen.
 - **Description (EN)** : Nutri Atlas Report is a science-backed wellness journal covering beauty, weight, sleep and immunity for women.
 - **Description (FR)** : Nutri Atlas Report est un journal bien-etre fonde sur la science, consacre a la beaute, au poids, au sommeil et a l'immunite des femmes.
 - **Description (IT)** : Nutri Atlas Report e un giornale di benessere basato sulla scienza dedicato a bellezza, peso, sonno e immunita delle donne.
-- **URL** : https://nutriatlasreport.com/ (domaine custom achete et configure, DNS a pointer par l'utilisateur — voir REFS.md du client pour les enregistrements exacts)
+- **URL** : https://nutri-atlas-report.com/ (domaine custom branche le 2026-09-25)
 - **Repo GitHub** : https://github.com/analytics-ds/nutri-atlas-report (public, GitHub Pages actif via GitHub Actions, domaine custom configure cote GitHub)
 - **Couleurs** : palette pastel wellness — primary `#C17B98` (rose poudre), primary-light `#DFA8BE`, accent `#B98ECB` (lavande), cta `#F2A488` (corail), background `#FFF9F7`, background-alt `#FBEFF0`, text `#3A2E35`
 - **Polices** : titres `Fraunces`, corps `Lora`, UI `DM Sans` (Google Fonts)

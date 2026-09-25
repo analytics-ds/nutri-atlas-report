@@ -25,5 +25,5 @@ Nutri Atlas Report publishes short, fact-based articles on women's wellness topi
 - Generator: Hugo
 - Hosting: GitHub Pages
 - Languages: de (default, root), en (/en/), fr (/fr/), it (/it/)
-- Sitemap: https://nutriatlasreport.com/sitemap.xml
-- RSS: https://nutriatlasreport.com/index.xml
+- Sitemap: https://nutri-atlas-report.com/sitemap.xml
+- RSS: https://nutri-atlas-report.com/index.xml
